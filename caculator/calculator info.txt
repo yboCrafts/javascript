@@ -1,0 +1,6 @@
+del, calculate
+
+[+, *, /, -]
+0-9
+
+can be touched, and have dataset so keydown
